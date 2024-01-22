@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\Hecate\Downloads\C++长期班\课程代码\1-C语言\Day07\3.结构体\main.c(19,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\Hecate\Downloads\C++长期班\课程代码\1-C语言\Day07\3.结构体\main.c(19,9): message : 请考虑在格式字符串中使用“%zu”
+C:\Users\Hecate\Downloads\C++长期班\课程代码\1-C语言\Day07\3.结构体\main.c(17,19): warning C4101: “s2”: 未引用的局部变量
+  3.结构体.vcxproj -> C:\Users\Hecate\Downloads\C++长期班\课程代码\1-C语言\Day07\x64\Debug\3.结构体.exe
