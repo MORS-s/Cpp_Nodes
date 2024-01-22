@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\Hecate\Downloads\C++长期班\课程代码\1-C语言\Day07\5.动态内存分配\main.c(18,26): warning C4013: “strlen”未定义；假设外部返回 int
+C:\Users\Hecate\Downloads\C++长期班\课程代码\1-C语言\Day07\5.动态内存分配\main.c(24,2): warning C4013: “strcpy”未定义；假设外部返回 int
+C:\Users\Hecate\Downloads\C++长期班\课程代码\1-C语言\Day07\5.动态内存分配\main.c(25,2): warning C4013: “strcat”未定义；假设外部返回 int
+  5.动态内存分配.vcxproj -> C:\Users\Hecate\Downloads\C++长期班\课程代码\1-C语言\Day07\Debug\5.动态内存分配.exe
