@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Hecate\Downloads\C++长期班\课程代码\1-C语言\Day08\1_动态内存分配\main.c(25,25): warning C4013: “malloc”未定义；假设外部返回 int
+C:\Users\Hecate\Downloads\C++长期班\课程代码\1-C语言\Day08\1_动态内存分配\main.c(29,3): warning C4013: “exit”未定义；假设外部返回 int
+  1_动态内存分配.vcxproj -> C:\Users\Hecate\Downloads\C++长期班\课程代码\1-C语言\Day08\Debug\1_动态内存分配.exe

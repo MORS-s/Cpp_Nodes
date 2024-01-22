@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\Hecate\Downloads\C++长期班\课程代码\1-C语言\Day08\3_qsort\main.c(20,2): warning C4013: “qsort”未定义；假设外部返回 int
+C:\Users\Hecate\Downloads\C++长期班\课程代码\1-C语言\Day08\3_qsort\main.c(39,22): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Hecate\Downloads\C++长期班\课程代码\1-C语言\Day08\3_qsort\main.c(43,19): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Hecate\Downloads\C++长期班\课程代码\1-C语言\Day08\3_qsort\main.c(47,22): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Hecate\Downloads\C++长期班\课程代码\1-C语言\Day08\3_qsort\main.c(31,38): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Hecate\Downloads\C++长期班\课程代码\1-C语言\Day08\3_qsort\main.c(32,38): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  3_qsort.vcxproj -> C:\Users\Hecate\Downloads\C++长期班\课程代码\1-C语言\Day08\Debug\3_qsort.exe
