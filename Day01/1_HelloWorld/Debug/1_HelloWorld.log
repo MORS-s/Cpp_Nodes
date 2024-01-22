@@ -1,0 +1,4 @@
+﻿  1_main.c
+C:\Users\Hecate\Downloads\C++长期班\课程代码\1-C语言\Day01\1_HelloWorld\1_main.c(28,6): warning C4101: “arr1”: 未引用的局部变量
+C:\Users\Hecate\Downloads\C++长期班\课程代码\1-C语言\Day01\1_HelloWorld\1_main.c(17,6): warning C4101: “l”: 未引用的局部变量
+  1_HelloWorld.vcxproj -> C:\Users\Hecate\Downloads\C++长期班\课程代码\1-C语言\Day01\Debug\1_HelloWorld.exe
